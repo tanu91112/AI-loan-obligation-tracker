@@ -79,7 +79,4 @@ ai-loan-obligation-tracker/
 ├── README.md
 └── requirements.txt
 ```
-
-## Hackathon Context
-
-This solution was developed for the LMA EDGE Hackathon (Devpost) focusing on practical, commercially viable solutions for the global loan market. The judges, who are non-technical subject-matter experts from banks and financial institutions, will evaluate the solution based on its practical applicability and commercial value.
+e.
