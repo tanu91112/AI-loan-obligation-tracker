@@ -1,0 +1,97 @@
+SYNTHETIC LOAN AGREEMENT - FOR DEMONSTRATION PURPOSES ONLY
+===========================================================
+
+This is a synthetic loan agreement created solely for demonstration purposes.
+All data is fictional and for demo purposes only.
+
+LOAN AGREEMENT
+==============
+
+PARTIES:
+- Lender: Demo Bank Corp (Synthetic Entity)
+- Borrower: ABC Manufacturing Inc. (Synthetic Entity)
+- Loan Amount: $5,000,000
+- Interest Rate: 4.5% per annum
+- Term: 5 years
+
+FINANCIAL COVENANTS:
+====================
+1. The Borrower shall maintain a Debt Service Coverage Ratio of not less than 1.25 to 1.0, measured quarterly, calculated as EBITDA minus taxes and capex divided by total debt service.
+
+2. The Borrower shall maintain a Leverage Ratio of not greater than 3.0 to 1.0, measured quarterly, calculated as Total Debt divided by EBITDA.
+
+3. The Borrower shall maintain a Current Ratio of not less than 1.10 to 1.0, measured monthly, calculated as Current Assets divided by Current Liabilities.
+
+4. The Borrower shall maintain minimum cash balances of not less than $500,000 at all times in accounts maintained with the Lender.
+
+REPORTING REQUIREMENTS:
+=======================
+5. Monthly unaudited financial statements shall be delivered within 20 days after the end of each month.
+
+6. Quarterly unaudited financial statements shall be delivered within 30 days after the end of each quarter, including balance sheet, income statement, and cash flow statement.
+
+7. Annual audited financial statements shall be delivered within 90 days after the fiscal year end, prepared by an independent certified public accountant acceptable to the Lender.
+
+8. Annual budgets and forecasts shall be delivered within 30 days prior to the start of each fiscal year.
+
+NOTIFICATION REQUIREMENTS:
+==========================
+9. The Borrower shall promptly notify the Lender of any Material Adverse Change affecting the business, operations, or financial condition of the Borrower.
+
+10. The Borrower shall immediately inform the Lender of any Default or Event of Default that has occurred or is reasonably likely to occur.
+
+11. The Borrower shall notify the Lender within 5 days of any litigation or governmental proceeding commenced against the Borrower that could reasonably result in damages exceeding $100,000.
+
+12. The Borrower shall provide notice within 10 days of any change in senior management or ownership structure representing 10% or more of outstanding equity.
+
+INSURANCE REQUIREMENTS:
+=======================
+13. The Borrower shall maintain property insurance covering all material assets with a minimum coverage equal to 80% of replacement value.
+
+14. The Borrower shall maintain general liability insurance with minimum coverage of $2,000,000 per occurrence and $5,000,000 in aggregate.
+
+AFFIRMATIVE COVENANTS:
+======================
+15. The Borrower shall comply with all applicable laws and regulations.
+
+16. The Borrower shall maintain its corporate existence and material licenses.
+
+17. The Borrower shall pay all taxes when due, unless contested in good faith.
+
+NEGATIVE COVENANTS:
+===================
+18. The Borrower shall not incur additional debt in excess of $1,000,000 without prior written consent of the Lender.
+
+19. The Borrower shall not make capital expenditures exceeding $500,000 annually without prior written consent of the Lender.
+
+EVENTS OF DEFAULT:
+==================
+20. Failure to make any payment when due (with a 5-day cure period).
+
+21. Breach of any covenant (with a 30-day cure period for non-financial covenants).
+
+22. Cross-default on other debt obligations exceeding $250,000.
+
+23. Insolvency, bankruptcy, or assignment for benefit of creditors.
+
+GENERAL PROVISIONS:
+===================
+24. This Agreement shall be governed by the laws of the State of New York.
+
+25. All notices shall be delivered to the addresses specified herein.
+
+26. Time is of the essence for all obligations under this Agreement.
+
+SIGNATURES:
+===========
+Lender: Demo Bank Corp
+By: _________________________ Date: ___________
+
+Borrower: ABC Manufacturing Inc.
+By: _________________________ Date: ___________
+
+---
+
+DISCLAIMER: This document is entirely synthetic and for demonstration purposes only.
+No real parties, amounts, or obligations are represented. This is a sample for testing
+the AI Loan Obligation Tracker application.
